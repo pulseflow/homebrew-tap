@@ -1,10 +1,10 @@
 # Pulseflow Tap
 
-## How do I install these formulae?
+## How do I install these formulae/casks?
 
-`brew install pulseflow/tap/<formula>`
+`brew install pulseflow/tap/<formula|cask>`
 
-Or `brew tap pulseflow/tap` and then `brew install <formula>`.
+Or `brew tap pulseflow/tap` and then `brew install <formula|cask>`.
 
 ## Documentation
 
